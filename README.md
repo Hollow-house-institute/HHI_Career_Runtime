@@ -52,3 +52,30 @@ ORCID: https://orcid.org/0009-0009-4806-1949
 ## Core Principle
 Time turns behavior into infrastructure.
 Behavior is the most honest data there is.
+
+
+## Services
+- AI Governance Documentation
+- AI Workflow SOP Development
+- Governance Process Mapping
+- AI Usage Policy Creation
+- Audit Readiness Documentation
+- Operational Governance Reviews
+
+## Selected Challenge Work
+### DEV Community Challenges
+- Governance Before Agents: A Structured Human Intelligence Portfolio for AI Systems
+- Turning Local AI Governance Into Runtime Infrastructure
+- Building Runtime Governance for Local AI with Gemma
+
+## Evidence Highlights
+- Runtime governance telemetry
+- Governance API outputs
+- Deployment continuity evidence
+- Governance audit artifacts
+- AI collaboration/refinement traces
+- GitHub release continuity
+- DOI-backed publication continuity
+
+## Resume
+- See: assets/resume/Amy_Bui_Resume.pdf

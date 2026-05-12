@@ -1,0 +1,8 @@
+# Simple Governance Architecture
+
+[ Standards Library ] ---> [ Runtime Governance ] ---> [ Audit / Evidence ]
+          |                          |                         |
+          v                          v                         v
+   Terminology              Execution Oversight         Replayable Proof
+   Crosswalks               Telemetry                  Longitudinal Logs
+   Canonical Authority      Stop Authority             Evidence Continuity
