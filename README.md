@@ -22,3 +22,8 @@ Operational AI governance portfolio demonstrating governance documentation, runt
 ## Core Principle
 Time turns behavior into infrastructure.
 Behavior is the most honest data there is.
+
+---
+
+## HHI Ecosystem
+See: [TOP_5_HHI_REPOS.md](TOP_5_HHI_REPOS.md)
