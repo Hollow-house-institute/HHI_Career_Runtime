@@ -149,3 +149,10 @@ Governance audit evidence and interaction lineage preservation.
 ## Hiring Materials
 - HIRING_MANAGER_BRIEF.md
 - 90_DAY_GOVERNANCE_PLAN.md
+
+## Executive Overview
+- EXECUTIVE_OVERVIEW.md
+
+## Visual Proof
+![Runtime Proof](visuals/runtime_proof.png)
+![Governance Telemetry](visuals/governance_telemetry.png)

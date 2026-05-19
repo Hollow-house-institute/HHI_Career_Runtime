@@ -1,4 +1,5 @@
 # Application Tracker
 
-| Company | Role | Date Applied | Status |
-|---|---|---|---|
+| Date | Company | Role | Status | Follow-Up |
+|---|---|---|---|---|
+| YYYY-MM-DD | Example Company | AI Governance Operations | Applied | Pending |
