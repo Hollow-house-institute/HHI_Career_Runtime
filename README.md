@@ -135,5 +135,6 @@ Behavioral governance telemetry and escalation infrastructure.
 Governance audit evidence and interaction lineage preservation.
 
 ## Portfolio
+- GOVERNANCE_PROOF_INDEX.md
 - PORTFOLIO_INDEX.md
 - CLIENT_DELIVERABLES.md
