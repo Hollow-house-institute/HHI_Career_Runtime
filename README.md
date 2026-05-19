@@ -145,3 +145,7 @@ Governance audit evidence and interaction lineage preservation.
 
 ## Career Overview
 - EXECUTIVE_SUMMARY.md
+
+## Hiring Materials
+- HIRING_MANAGER_BRIEF.md
+- 90_DAY_GOVERNANCE_PLAN.md

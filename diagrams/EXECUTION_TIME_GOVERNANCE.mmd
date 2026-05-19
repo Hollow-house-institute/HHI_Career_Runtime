@@ -1,0 +1,10 @@
+flowchart TD
+    A[AI Request or Workflow Starts] --> B[Decision Boundary Check]
+    B -->|Allowed| C[AI Executes Task]
+    B -->|Unclear or Risky| D[Escalation Required]
+    D --> E[Human Review]
+    E -->|Approved| C
+    E -->|Rejected| F[Stop Authority Activated]
+    C --> G[Governance Telemetry Logged]
+    F --> G
+    G --> H[Audit Evidence Preserved]
