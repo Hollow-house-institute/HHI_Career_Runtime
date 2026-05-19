@@ -1,3 +1,7 @@
+# HHI Career Runtime
+
+Operational AI governance portfolio focused on runtime oversight, governance documentation, audit evidence, and execution-time governance infrastructure.
+
 # HHI Career Runtime Portfolio
 
 Professional portfolio for Amy Pierce Bui, Founder of Hollow House Institute.
@@ -138,3 +142,6 @@ Governance audit evidence and interaction lineage preservation.
 - GOVERNANCE_PROOF_INDEX.md
 - PORTFOLIO_INDEX.md
 - CLIENT_DELIVERABLES.md
+
+## Career Overview
+- EXECUTIVE_SUMMARY.md
