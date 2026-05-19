@@ -1,0 +1,9 @@
+assets/runtime_proof/GOVERNANCE_LOG.jsonl
+assets/runtime_proof/HHI_Audit_Evidence_v1.0.0-audit-lock.zip
+assets/runtime_proof/PROOF_INDEX.txt
+assets/runtime_proof/audit_log.md
+assets/runtime_proof/drift_monitor_runtime.jsonl
+assets/runtime_proof/governance_event.schema.json
+assets/runtime_proof/governance_telemetry.jsonl
+assets/runtime_proof/telemetry.schema.json
+assets/runtime_proof/telemetry_export_api.py
