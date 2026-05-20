@@ -153,6 +153,3 @@ Governance audit evidence and interaction lineage preservation.
 ## Executive Overview
 - EXECUTIVE_OVERVIEW.md
 
-## Visual Proof
-![Runtime Proof](visuals/runtime_proof.png)
-![Governance Telemetry](visuals/governance_telemetry.png)
